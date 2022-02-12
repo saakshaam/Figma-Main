@@ -1,0 +1,294 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Signika+Negative&family=Source+Serif+4:ital,wght@1,700&family=Zen+Kurenaido&display=swap');
+
+*{
+          margin:0px;
+          padding:0px;
+}
+.header{
+          height:60px;
+          box-shadow:2px 2px 2px #888888;
+          display:flex;
+}
+.pixel{
+          height:30px;
+          margin:9px;
+          padding:10px;
+          padding-left:40px;
+          font-family:'Signika Negative', sans-serif ;
+          font-size: 25px;
+          padding-bottom: 10px;
+          margin-bottom: 5px;
+}
+.nav{
+         padding-left: 700px;
+         padding-top: 20px;
+}
+.nav a{
+          padding:10px;
+          text-decoration: none;
+          color:black;
+          font-family:'Signika Negative', sans-serif ;
+         
+}
+.sign{
+          background-color: rgb(14, 172, 224);
+          color:white;
+          
+}
+.nav button{
+         margin:10px;
+         font-family:'Signika Negative', sans-serif ;
+}
+.inner1{
+
+          display: flex;
+          height:320px;
+          width:1500px;
+          flex-direction: row;
+}
+
+
+
+.text-Learning{
+         padding:20px;
+         margin:20px;
+          
+          width:800px;
+          height: 200px;
+}
+.text-Learning h2{
+          font-family: 'Signika Negative', sans-serif;
+}
+.text-Learning p{
+          font-family: 'Signika Negative', sans-serif;
+}
+.text-Learning h4{
+          font-family: 'Signika Negative', sans-serif;
+}
+.image img{
+          width: 400px;
+          height:200px;
+}
+.image{
+          width:300px;
+          height:330px;
+          padding:20px;
+          margin-top: 40px;
+}
+.inner2{
+          margin:20px;
+          display: grid;
+          padding:20px;
+          height:40px;
+              
+          grid-template-columns: 1fr 1fr 1fr;   
+          width:1450px;
+          box-shadow: 5px 5px 8px #888888;
+}
+
+.two1{
+          width:200px;
+          padding-left: 120px;
+          font-size: 15px;
+          display:grid;
+          color: rgb(0, 136, 255);
+          grid-template-columns: 1fr 1fr;
+          font-family: 'Signika Negative', sans-serif;
+}
+.two2{
+          width:200px;
+          padding-left: 120px;
+          font-size: 15px;
+          color: rgb(0, 136, 255);
+          display:grid;
+          grid-template-columns: 1fr 1fr;
+          font-family: 'Signika Negative', sans-serif;
+}
+.two3{
+          width:200px;
+          padding-left: 150px;
+          font-size:15px;
+          color: rgb(0, 136, 255);
+          display:grid;
+          grid-template-columns: 1fr 1fr;
+          font-family: 'Signika Negative', sans-serif;
+          
+          
+}
+.p1{
+          width:140px;
+          padding-top:10px;
+}
+.p2{
+          width:140px;
+          padding-top:10px;
+}
+.p3{
+          width:140px;
+          padding-top:10px;
+}
+
+.Path{
+          display: flex;
+         
+         height:800px;
+         width: 1500px;
+         flex-direction: column;
+}
+.Path h2{
+         margin:20px;
+         padding-left: 600px;
+         font-family: 'Signika Negative', sans-serif;
+}
+.LP1,.LP2{
+          height:300px;
+          width:600px;
+          background-image: linear-gradient(to right,hsl(192, 100%, 50%),#ccf5ff);
+          margin:50px;
+          border-radius: 5px;
+          font-family: 'Signika Negative', sans-serif;
+}
+.LP3,.LP4{
+          height:300px;
+          width:600px;
+          background-image: linear-gradient(to right,#4dffc3, #ccffee);
+          margin:50px;
+          border-radius: 5px;
+          font-family: 'Signika Negative', sans-serif;
+          color:white;
+
+}
+.tbox{
+          display:flex;
+          flex-direction: row;
+          padding-left: 45px;
+}
+.dip{
+          padding:40px;
+          margin:20px;
+          color:white;
+}
+.Advance{
+          padding:20px;
+          margin:20px;
+          background-image:linear-gradient(to right,hsl(192, 100%, 50%),#ccf5ff);
+          display:grid;
+          grid-template-columns: 1fr 1fr;
+          border-radius: 5px;
+          font-family:'Signika Negative', sans-serif ;
+          color:white;
+
+}
+.part1{
+          padding:10px;
+          margin:10px;
+          color:white;
+          width:600px;
+          border-radius: 5px;
+}
+.part2{
+          padding:10px;
+          margin:10px;
+          width:600px;
+          color:white;
+          border-radius:5px;
+         
+}
+.what{
+          
+          width:450px;
+          margin:30px;
+          margin-left: 550px;
+          margin-top:100px;
+          font-family:'Signika Negative', sans-serif ;
+          
+
+          
+}
+.timg{
+          display: flex;
+          
+}
+
+.boxx{
+          margin:30px;
+          margin-left:180px; 
+          margin-top: 10px;
+}
+.boxx1{
+          margin:30px;
+          margin-left:180px; 
+}
+.boxx2{
+          margin:30px;
+          margin-left:180px; 
+}
+.timt{
+          display:flex;
+          
+}
+.cont1,.cont2,.cont3{
+          margin:10px;
+          margin-left: 130px;
+          font-family:'Signika Negative', sans-serif ;
+         
+
+}
+.what2{
+          padding-top:50px;
+          padding-left:550px;
+          font-size: 15px;
+          font-family:'Signika Negative', sans-serif ;
+          
+
+}
+.week{
+          
+          
+          background-color: #ccf5ff;
+          width:1200px;
+          margin-left: 140px;
+          border-radius: 5px;
+          font-family:'Signika Negative', sans-serif ;
+          
+}
+.table{
+          display: flex;
+          margin:5px;
+          font-family:'Signika Negative', sans-serif ;
+          
+
+}
+.week1,.week2,.week3{
+          margin:20px;
+          padding-left:100px;
+          line-height:1.8;
+
+}
+.longtext{
+          padding-top:40px;
+          padding-left: 120px;
+          line-height:1.8;
+          font-family:'Signika Negative', sans-serif ;
+          
+
+}
+.heading{
+         padding:20px;
+          padding-left:130px;
+          padding-top:130px;
+          font-size: 20px;
+          font-family:'Signika Negative', sans-serif ;
+          
+}
+
+.footer{
+         
+          margin:10px;
+}
+.footer div{
+          padding-left:650px;
+}
+
+
+
